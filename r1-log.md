@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Rylie Johnson
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on July 1, Monday, 2019.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Forked this repo and made tweaks to what I'd like. Made a few updates to my portfolio, definitely thinking of scrapping it and starting from scratch. Mostly getting used to typing on a pc again tbh.
